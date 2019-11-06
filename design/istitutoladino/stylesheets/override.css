@@ -1,0 +1,16 @@
+
+.owl-carousel .openpa-panel{
+	width: 100%
+}
+
+.Card-text, .Card-title, 
+.openpa-full .content-main-abstract, 
+.openpa-full .content-main-body, 
+.openpa-full .extra .nav-section, 
+.u-layout-prose {
+    max-width: none !important;
+}
+
+.openpa-full .content.withExtra, .openpa-full .contentLayout.withExtra{
+	padding-right: 2em;
+}

@@ -1,0 +1,113 @@
+.Rivista{
+    font-family: Georgia, serif;
+}
+.Rivista .Header-navbar{
+	background: url('../images/rivista/header-bg.jpg');	
+    padding-top: 4.4rem !important;
+    padding-bottom: 4.4rem !important
+}
+
+.Rivista .Header-navbar h1{
+	font-weight: normal !important;
+	color: #9C3E3B;
+	font-variant: small-caps;
+	font-size: 4em;
+}
+.Rivista .Header-navbar h1 a{
+	color: #9C3E3B !important;
+	text-decoration: none !important;
+}
+
+.Rivista .Header-navbar h2{
+	font-weight: normal !important;
+	font-variant: small-caps;
+	font-size: 2em;
+}
+
+.Rivista .Header-navbar strong{
+	font-weight: normal !important;	
+	font-size: 1em;
+	margin-top: 10px;
+	display: block;
+}
+
+.Rivista .Header-navbar > .u-layout-medium{
+	position: relative;
+}
+
+.Rivista .Header-navbar .back-to-site{
+	position: absolute;
+	top: -30px;
+	right: 0;
+	color: #9C3E3B !important;
+	text-align: right;
+}
+
+.Rivista .Megamenu--default{
+	background-color: #9C3E3B;	
+}
+
+.Rivista .Megamenu--default .Megamenu-list{
+	/*justify-content: space-between !important*/
+	max-width: 128rem !important;
+}
+
+.Rivista .Megamenu--default .Megamenu-item > a{
+	font-weight: normal !important;
+}
+
+/*.Rivista .title h2,*/
+.Rivista .openpa-widget-title,
+.Rivista .singolo_box_piccolo .openpa-widget-content h3,
+.Rivista .singolo_full .openpa-widget-content h3{
+	font-family: 'Pinyon Script', cursive;
+	font-size: 3.8rem !important;
+	font-weight: normal !important;
+}
+
+.Rivista .readmore{
+	text-transform: none;
+	font-weight: normal;
+}
+
+.Rivista .openpa-widget-title a,
+.Rivista a{
+	color: #000 !important;
+}
+
+.Rivista footer a{
+	color: #fff !important;
+}
+
+.Rivista .Forward.u-color-30,
+.Rivista .Accordion--default .Accordion-link,
+.Rivista .Accordion--plus .Accordion-link,
+.Rivista .Accordion-link,
+.Rivista .Card-titleLink,
+.Rivista .ErrorPage-subtitle,
+.Rivista .ErrorPage-title,
+.Rivista .goto a,
+.Rivista .Header-language-other a,
+.Rivista .Linklist-link,
+.Rivista .Linklist a,
+.Rivista .list-group a,
+.Rivista .openpa-event-item .calendar-title a,
+.Rivista .openpa-widget-title-lev2 a,
+.Rivista .Share-revealIcon.is-open,
+.Rivista .Skiplinks > li > a,
+.Rivista .u-color-50{
+	color: #9C3E3B !important;
+}
+
+.Rivista .lista_banner .Grid-cell a:hover {
+    background-color: #9C3E3B !important;
+}
+
+.Rivista .block-wrapper{
+	padding: 1.5em 0 !important;
+}
+
+.openpa-widget.color-yellow,
+.Rivista .block-wrapper.u-background-grey-20{
+	background: #FFE387 !important;
+}
