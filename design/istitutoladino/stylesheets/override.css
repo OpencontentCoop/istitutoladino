@@ -14,3 +14,11 @@
 .openpa-full .content.withExtra, .openpa-full .contentLayout.withExtra{
 	padding-right: 2em;
 }
+
+.openpa-widget-title span:hover{
+	text-decoration: none !important;
+}
+
+.openpa-full table{
+	margin: 20px 0;
+}

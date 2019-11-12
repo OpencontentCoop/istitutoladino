@@ -1,8 +1,12 @@
 .Rivista{
     font-family: Georgia, serif;
 }
-.Rivista .Header-navbar{
-	background: url('../images/rivista/header-bg.jpg');	
+.Rivista .Header{
+	background: url('../images/rivista/header-bg.png');	
+}
+
+.Rivista .Header-navbar{	
+	background: transparent url('../images/rivista/header.jpg') center center no-repeat !important;	
     padding-top: 4.4rem !important;
     padding-bottom: 4.4rem !important
 }
